@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA — Deep Space Telemetry & Spectral Reconstruction",
+  "description": "Multimodal Generative AI for Deep Space Telemetry & Spectral Reconstruction. Restores corrupted cosmic images, orbital video streams, deep-space audio radio feeds, and damaged transmission logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
